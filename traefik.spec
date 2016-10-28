@@ -1,8 +1,8 @@
 %define debug_package %{nil}
 
 Name:           traefik
-Version:        1.0.2
-Release:        2%{?dist}
+Version:        1.0.3
+Release:        1%{?dist}
 Summary:        Træfɪk, a modern reverse proxy
 ExclusiveArch:  x86_64
 
